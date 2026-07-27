@@ -1,0 +1,48 @@
+{
+    "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+    "notGrouped": "bottom",
+    "groupings": [
+        {
+            "title": "Languages & Frameworks",
+            "description": "Skills for writing and refactoring code across Python, JavaScript/TypeScript, FastAPI, and React Native.",
+            "skills": [
+                "python-pro",
+                "javascript-pro",
+                "typescript",
+                "fastapi-expert",
+                "react-native-architecture",
+                "react-native-design",
+                "expo-api-docs"
+            ]
+        },
+        {
+            "title": "Architecture & Design",
+            "description": "Skills for designing systems, full-stack features, real-time services, databases, and diagrams.",
+            "skills": [
+                "architecture-designer",
+                "fullstack-guardian",
+                "websocket-engineer",
+                "database-optimizer",
+                "mermaid-diagrams"
+            ]
+        },
+        {
+            "title": "Quality, Testing & Review",
+            "description": "Skills for code review, security audits, test generation, and debugging.",
+            "skills": [
+                "code-reviewer",
+                "security-reviewer",
+                "test-master",
+                "debugging-wizard"
+            ]
+        },
+        {
+            "title": "Process",
+            "description": "Skills for pre-implementation ideation and Android end-to-end testing.",
+            "skills": [
+                "brainstorming",
+                "android-e2e-testing"
+            ]
+        }
+    ]
+}
