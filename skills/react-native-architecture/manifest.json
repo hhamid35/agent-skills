@@ -1,0 +1,7 @@
+{
+    "name": "react-native-architecture",
+    "version": "0.1.0",
+    "agent_kind": "design",
+    "stage": "Design",
+    "system_prompt": "SKILL.md"
+}

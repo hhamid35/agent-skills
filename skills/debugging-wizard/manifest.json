@@ -1,0 +1,7 @@
+{
+    "name": "debugging-wizard",
+    "version": "0.1.0",
+    "agent_kind": "code-generation",
+    "stage": "Code Generation",
+    "system_prompt": "SKILL.md"
+}

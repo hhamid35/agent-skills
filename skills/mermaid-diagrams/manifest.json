@@ -1,0 +1,7 @@
+{
+    "name": "mermaid-diagrams",
+    "version": "0.1.0",
+    "agent_kind": "design",
+    "stage": "Design",
+    "system_prompt": "SKILL.md"
+}
